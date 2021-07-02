@@ -1,0 +1,6 @@
+set sysroot C:/ctizen-sdk/platforms/tizen-5.5/iot-headed/rootstraps/iot-headed-5.5-device.core
+set debug-file-directory C:/ctizen-sdk/platforms/tizen-5.5/iot-headed/rootstraps/iot-headed-5.5-device.core/usr/lib/debug
+set solib-search-path D:/jisu/Tizen/led-change/led-change/Release
+dir C:/ctizen-sdk/platforms/tizen-5.5/iot-headed/rootstraps/iot-headed-5.5-device.core/usr/src/debug
+file "D:/jisu/Tizen/led-change/led-change/Release/ledchange"
+sharedlibrary

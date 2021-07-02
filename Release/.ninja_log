@@ -1,0 +1,27 @@
+# ninja log v5
+2	1098	0	src/resource.o	a336dfa01acd8f63
+65	1331	0	src/resource/resource_led.o	b9e0499ca9afc80a
+96	1342	0	src/sensor-data.o	6202f5740118abc2
+34	2926	0	src/ledchange.o	2f2b1a2a89c613b7
+2935	4160	0	ledchange	7c828f758c36301f
+1	91	0	clean_cov	b3de405e02eb7ca8
+91	161	0	clean_sa	46ab9549445ac981
+161	303	0	clean	d59b6dac04fa9b5d
+6	1585	0	src/resource.o	a336dfa01acd8f63
+85	1817	0	src/sensor-data.o	6202f5740118abc2
+133	1936	0	src/resource/resource_led.o	b9e0499ca9afc80a
+42	3425	0	src/ledchange.o	2f2b1a2a89c613b7
+3426	4497	0	ledchange	7c828f758c36301f
+1	48	0	clean_cov	b3de405e02eb7ca8
+48	102	0	clean_sa	46ab9549445ac981
+102	205	0	clean	d59b6dac04fa9b5d
+41	1336	0	src/resource.o	a336dfa01acd8f63
+74	1508	0	src/sensor-data.o	6202f5740118abc2
+115	1616	0	src/resource/resource_led.o	b9e0499ca9afc80a
+7	3222	0	src/ledchange.o	2f2b1a2a89c613b7
+3223	4457	0	ledchange	7c828f758c36301f
+142	2222	0	src/resource.o	a336dfa01acd8f63
+201	2436	0	src/sensor-data.o	6202f5740118abc2
+10	2451	0	src/resource/resource_led.o	b9e0499ca9afc80a
+85	5633	0	src/ledchange.o	2f2b1a2a89c613b7
+5633	8651	0	ledchange	7c828f758c36301f
